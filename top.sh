@@ -1,6 +1,6 @@
 #!/usr/bin/env bash
 
-echo " | iconName=terminator"
+echo " | iconName=utilities-terminal-symbolic "
 echo "---"
 
 # http://stackoverflow.com/a/14853319
